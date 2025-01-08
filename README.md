@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdrezaulkarim38, but you can call me Shuvo!
 - 👀 I’m interested in programming - I love it so much that I can't imagine feeling good without coding!
 - 🌱 I’m currently learning data structures and algorithms to strengthen my problem-solving skills.
-- 💼 I’m currently working on ASP.NET Core 8 MVC and API development, focusing on creating robust and scalable applications.
+- 💼 I’m currently working on ASP.NET Core MVC and API development, focusing on creating robust and scalable applications.
 - 💞️ I’m looking to collaborate on API development projects and exploring design patterns.
 - 📫 You can reach me via email at mdrezaulkarim31295@gmail.com.
 - 😄 Pronouns: He/Him
