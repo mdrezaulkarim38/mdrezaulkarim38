@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Shuvo (Md Rezaul Karim)
 
 - 🔭 I’m a passionate full-stack developer from **Bangladesh**, working professionally with **ASP.NET Core** and **React.js**
-- 🌍 Open to **remote opportunities** now and planning to **relocate after 1 year**
+- 🌍 Open to **remote opportunities** now and planning to **relocate**
 - 💻 Currently building **robust, scalable REST APIs** and working on enterprise-grade solutions
 
 ---
