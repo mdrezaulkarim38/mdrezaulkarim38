@@ -1,14 +1,73 @@
-- 👋 Hi, I’m @mdrezaulkarim38, but you can call me Shuvo!
-- 👀 I’m interested in programming - I love it so much that I can't imagine feeling good without coding!
-- 🌱 I’m currently learning data structures and algorithms to strengthen my problem-solving skills.
-- 💼 I’m currently working on ASP.NET Core MVC and API development, focusing on creating robust and scalable applications.
-- 💞️ I’m looking to collaborate on API development projects and exploring design patterns.
-- 📫 You can reach me via email at mdrezaulkarim31295@gmail.com.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have projects in both ASP.NET Core and I'm excited about the challenge of working with JavaScript and .NET simultaneously!
+# 👋 Hi, I’m Shuvo (Md Rezaul Karim)
 
+- 🔭 I’m a passionate full-stack developer from **Bangladesh**, working professionally with **ASP.NET Core** and **React.js**
+- 🌍 Open to **remote opportunities** now and planning to **relocate after 1 year**
+- 💻 Currently building **robust, scalable REST APIs** and working on enterprise-grade solutions
 
-<!---
-mdrezaulkarim38/mdrezaulkarim38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠 Tech Stack
+
+- **Languages & Frameworks:**  
+  `C#`, `ASP.NET Core`, `React.js`, `Node.js`, `Express.js`, `JavaScript`, `Firebase Functions`
+
+- **Databases:**  
+  `SQL Server`, `Oracle`, `MongoDB`, `Firebase Firestore`
+
+- **Tools & Platforms:**  
+  `Git`, `GitHub`, `Postman`, `Docker`, `Firebase`, `Visual Studio`, `VS Code`,  
+  `DBeaver CE (Ubuntu)`, `SSMS (Windows)`
+
+---
+
+## 🚀 Notable Projects
+
+- **Synergy CRM**  
+  *Full-stack project using ASP.NET Core 8 API + React.js*  
+  Built and maintained both the frontend and backend to streamline customer management.
+
+- **AccuStock**  
+  *Full-stack inventory management system*  
+  Built key features for real-time stock tracking using C#, ASP.NET Core 8 MVC, and SQL Server.
+
+- **Smart Life Insurance**  
+  *Backend development using ASP.NET (framework) MVC*  
+  Developed APIs and backend logic for a digital insurance platform.
+
+---
+
+## 📜 Certifications
+
+- ✔️ HackerRank: **JavaScript (Basic)**
+- ✔️ HackerRank: **SQL (Intermediate)**
+
+---
+
+## 🤝 Soft Skills
+
+- 🤝 Strong **team collaboration**
+- 🔄 Excellent **adaptability** to new tech and environments
+
+---
+
+## 🎯 Career Goals
+
+I aim to become a **Software Architect**, designing scalable and maintainable systems across technologies and platforms.
+
+---
+
+## 🌐 Languages
+
+- 🗣 Native: **Bangla**
+- 🗣 Fluent: **English**
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [mdrezaulkarim31295@gmail.com](mailto:mdrezaulkarim31295@gmail.com)
+- 🔗 GitHub: [@mdrezaulkarim38](https://github.com/mdrezaulkarim38)
+
+---
+
+> ⚡ **Fun Fact:** I love coding so much that I can't imagine feeling good without writing code!
