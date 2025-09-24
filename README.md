@@ -11,16 +11,12 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat\&logo=c-sharp\&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat\&logo=dotnet\&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
 
 **Databases**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat\&logo=microsoft-sql-server\&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat\&logo=oracle\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat\&logo=firebase\&logoColor=black)
 
 **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
@@ -55,11 +51,6 @@ Aspiring to become a **Software Architect**, designing
 </p>  
 
 ---
-
-## 📫 Contact
-
-* 📧 [mdrezaulkarim31295@gmail.com](mailto:mdrezaulkarim31295@gmail.com)
-
+📧 **Contact:** [mdrezaulkarim31295@gmail.com](mailto:mdrezaulkarim31295@gmail.com)
 ---
-
 ⚡ **Fun Fact:** I love coding so much that I can’t imagine a day without it.
