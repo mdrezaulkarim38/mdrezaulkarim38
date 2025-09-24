@@ -19,29 +19,6 @@
 
 ---
 
-## 🚀 Notable Projects
-
-- **Synergy CRM**  
-  *Full-stack project using ASP.NET Core 8 API + React.js*  
-  Built and maintained both the frontend and backend to streamline customer management.
-
-- **AccuStock**  
-  *Full-stack inventory management system*  
-  Built key features for real-time stock tracking using C#, ASP.NET Core 8 MVC, and SQL Server.
-
-- **Smart Life Insurance**  
-  *Backend development using ASP.NET (framework) MVC*  
-  Developed APIs and backend logic for a digital insurance platform.
-
----
-
-## 📜 Certifications
-
-- ✔️ HackerRank: **JavaScript (Basic)**
-- ✔️ HackerRank: **SQL (Intermediate)**
-
----
-
 ## 🤝 Soft Skills
 
 - 🤝 Strong **team collaboration**
@@ -52,13 +29,6 @@
 ## 🎯 Career Goals
 
 I aim to become a **Software Architect**, designing scalable and maintainable systems across technologies and platforms.
-
----
-
-## 🌐 Languages
-
-- 🗣 Native: **Bangla**
-- 🗣 Fluent: **English**
 
 ---
 
